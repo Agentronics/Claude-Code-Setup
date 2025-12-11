@@ -7,6 +7,7 @@ A complete setup guide for configuring Claude Code with Gemini models using `cla
 # Prerequisites
 ## 1. Node.js Installation
 Intall Node.js version(18.x or higher)[(nodejs.org)](https://nodejs.org)
+
 Open PowerShell and run:
 
 ```powershell
