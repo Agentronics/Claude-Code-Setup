@@ -18,9 +18,7 @@ node --version
 1. Visit: [https://aistudio.google.com](https://aistudio.google.com)
 2. Select **Get API Key**
 3. Click **Create API Key**
-4. Copy the key (looks like: ```
-AIzaSy...............
-```)
+4. Copy the key (looks like: ```AIzaSy...............```)
 ---
 
 ## 3. Install Required CLI Tools
