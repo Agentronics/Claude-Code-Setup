@@ -2,8 +2,8 @@
 
 ## Prerequisites   
 - **Node.js v18 or later**
----
-
+- **Qwen CLI Installation**
+  
 ## 🧩 Qwen CLI Installation  
 Install the latest Qwen Code CLI:
 
