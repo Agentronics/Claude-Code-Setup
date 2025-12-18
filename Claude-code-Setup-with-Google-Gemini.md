@@ -115,7 +115,7 @@ If all commands return output without errors, the setup is successful.
 
 ---
 
-### 🎯 Step 6: Start the Router (Terminal 1)
+## 🎯 Step 7: Start the Router (Terminal 1)
 
 ```powershell
 ccr start
@@ -136,7 +136,7 @@ cd your-project-folder
 ccr code
 ```
 
-## 🔍 Step 7: Quick Test
+## 🔍 Step 8: Quick Test
 
 Run:
 
